@@ -1,5 +1,5 @@
 #!/bin/bash
-# If not autotool-dev isn't already installed you have to do:
+# If autotool-dev isn't already installed you have to run
 # sudo apt-get install autotools-dev
 sudo apt-get install build-essential autotools-dev tcl8.5-dev tk8.5-dev
 cd $HOME
